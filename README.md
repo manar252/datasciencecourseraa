@@ -1,2 +1,0 @@
-# datasciencecourseraa
-just another reposlitory
